@@ -1,0 +1,7 @@
+Flask==3.0.2
+Flask-RESTful==0.3.10
+opencv-python==4.9.0.80
+better-profanity==0.7.0
+pillow==10.2.0
+NudeNetClassifier==2.1.1
+uWSGI==2.0.24
